@@ -18,7 +18,7 @@
 
 <p>Inspiration for this project was driven from Epic Games MOBA(multiplayer online battle arena) game Paragon, which was shut down for financial reasons and in doing so they also released all the assets for free on their game engine, Unreal. These assets are a perfect template for young game developers with limited skills because they provide all the triple A potential, you just need to figure out how to put the pieces(code) back together for things to function properly.</p>
 
-<h2>Month 1 - Mapping the Environment</h2>
+<h2>Month 1 - Map and Environment Design</h2>
 
 ![jungleScreeny](https://user-images.githubusercontent.com/70648519/115128514-496cf200-9fac-11eb-8587-9ffe705925fb.PNG)
 

@@ -23,7 +23,8 @@
 ![jungleScreeny](https://user-images.githubusercontent.com/70648519/115128514-496cf200-9fac-11eb-8587-9ffe705925fb.PNG)
 
 <p>Although I spent about 25% of my time on the length of the project on environment design, I believe it was a good idea because it allowed me to show my potential as an environment artist. Additionally, it shows professional design techniques since each lane, jungle path and camp had to be strategically placed in order to make sure each side was evenly matched. This was achieved by countless play testing, measuring and timing.</p>
-<p>MOBAS traditionally have 2 bases that each have 5 players start in. The objective is to destroy the opponents base core, each base is seperated by 3 lanes and a jungle. Giving each character roles to take part in throughout the match.</p>
+<p>MOBAS traditionally have 2 bases that each have 5 players start in. The objective is to destroy the opponents base core, each base is seperated by 3 lanes and a jungle. Giving each character roles to take part in throughout the match. The five roles are Mid, Jungle, Solo, ADC(all damage carry) and Support, which play together in the lane.</p>
+<p>Having a lot of experience from playing this type of game gave me a great stepping stone in designing the map.</p>
 
 ![map](https://user-images.githubusercontent.com/70648519/115129359-1ed26780-9fb3-11eb-86bb-146ff804d39c.PNG)
 

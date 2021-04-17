@@ -14,7 +14,7 @@
 
 ![notes](https://user-images.githubusercontent.com/70648519/115128260-7c15eb00-9faa-11eb-991e-2f90eb3870ad.PNG)
 
-
+<p>Inspiration for this project was driven from Epic Games MOBA(multiplayer online battle arena) game Paragon, which was shut down for financial reasons and they released all the assets for free on their game engine Unreal. These assets are a perfect template for young game developers with limited skills because they provide all the tripple A potential, you just need to figure out how to put the pieces(code) back together for in or for things to function correctly.</p>
 
 
 

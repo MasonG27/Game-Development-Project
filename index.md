@@ -37,3 +37,8 @@
 
 ![meleeBoxBP](https://user-images.githubusercontent.com/70648519/115149284-5ed82f80-a031-11eb-890f-bceb10748432.PNG)
 
+![startCollision](https://user-images.githubusercontent.com/70648519/115149464-4b799400-a032-11eb-82da-b477087f1569.PNG)
+
+![endCollision](https://user-images.githubusercontent.com/70648519/115149468-4fa5b180-a032-11eb-9403-9071e8c96133.PNG)
+
+![Notify](https://user-images.githubusercontent.com/70648519/115149474-53d1cf00-a032-11eb-8500-c7ff93015539.PNG)

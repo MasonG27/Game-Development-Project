@@ -42,3 +42,15 @@
 ![endCollision](https://user-images.githubusercontent.com/70648519/115149468-4fa5b180-a032-11eb-9403-9071e8c96133.PNG)
 
 ![Notify](https://user-images.githubusercontent.com/70648519/115149474-53d1cf00-a032-11eb-8500-c7ff93015539.PNG)
+
+<p>The great thing about this combat system is the tagging allows for you to easily do damage to multiple enemies by just adding a tag to them. A great example is the turrets, all I had to do was give them a health variable and tag them as an enemy and boom, they are able to take damage from the player. The reason this is important is it saves so much time instead of reimplamenting the same blueprint and having to adjust different variables.</p> 
+
+<p>Once I got my basic damage system setup it was time to design and add functionality to an enemy. I started with the red buff camp, MOBAS have small areas in the jungle called camps which have monsters that help your character gain experience and gold when killed.</p>
+
+![AI](https://user-images.githubusercontent.com/70648519/115151251-107b5e80-a03a-11eb-8181-5596efb28cf1.PNG)
+
+![notifyAnim](https://user-images.githubusercontent.com/70648519/115151254-140ee580-a03a-11eb-905d-82b946644631.PNG)
+
+![AnimGraph](https://user-images.githubusercontent.com/70648519/115151257-1709d600-a03a-11eb-8b54-041e1714aaee.PNG)
+
+

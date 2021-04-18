@@ -27,7 +27,13 @@
 
 ![map](https://user-images.githubusercontent.com/70648519/115129359-1ed26780-9fb3-11eb-86bb-146ff804d39c.PNG)
 
-<h2>Month 2 - Combat System</h2>
+<h2>Month 2 - Combat System and Character Stats</h2>
 
 ![combat system anim](https://user-images.githubusercontent.com/70648519/115127588-9bf6e000-9fa5-11eb-9737-a41754211c98.png)
+
+<p>About a month into the project I began exploring different ways of starting a combat system. I ended up settling on a tag system for detection and overlap collision for damage.</p>
+
+![kwangCombat](https://user-images.githubusercontent.com/70648519/115149294-6566a700-a031-11eb-85cd-020f32ebcdee.PNG)
+
+![meleeBoxBP](https://user-images.githubusercontent.com/70648519/115149284-5ed82f80-a031-11eb-890f-bceb10748432.PNG)
 

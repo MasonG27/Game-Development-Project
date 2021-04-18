@@ -3,8 +3,6 @@
 <h3>Project Showcase</h3>
 <h1>Invicta!<h1>
 <h3>Mason Gossy</h3>
-  
-![combat system anim](https://user-images.githubusercontent.com/70648519/115127588-9bf6e000-9fa5-11eb-9737-a41754211c98.png)
 
 <h2>Introduction</h2>
 <p>My project is broken up into 2 major parts, documentation and visual coding(scripting/blueprints) both played their own unique role in the development process of this project.</p>
@@ -28,4 +26,8 @@
 ![mapTemplate](https://user-images.githubusercontent.com/70648519/115129528-d320bd80-9fb4-11eb-9f67-2c58727c7527.PNG)
 
 ![map](https://user-images.githubusercontent.com/70648519/115129359-1ed26780-9fb3-11eb-86bb-146ff804d39c.PNG)
+
+<h2>Month 2 - Combat System</h2>
+
+![combat system anim](https://user-images.githubusercontent.com/70648519/115127588-9bf6e000-9fa5-11eb-9737-a41754211c98.png)
 

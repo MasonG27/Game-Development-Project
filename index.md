@@ -33,8 +33,6 @@
 
 <p>About a month into the project I began exploring different ways of starting a combat system. I ended up settling on a tag system for detection and overlap collision for damage.</p>
 
-![kwangCombat](https://user-images.githubusercontent.com/70648519/115149294-6566a700-a031-11eb-85cd-020f32ebcdee.PNG)
-
 ![meleeBoxBP](https://user-images.githubusercontent.com/70648519/115149284-5ed82f80-a031-11eb-890f-bceb10748432.PNG)
 
 ![startCollision](https://user-images.githubusercontent.com/70648519/115149464-4b799400-a032-11eb-82da-b477087f1569.PNG)
@@ -46,6 +44,8 @@
 <p>The great thing about this combat system is the tagging allows for you to easily do damage to multiple enemies by just adding a tag to them. A great example is the turrets, all I had to do was give them a health variable and tag them as an enemy and boom, they are able to take damage from the player. The reason this is important is it saves so much time instead of reimplamenting the same blueprint and having to adjust different variables.</p> 
 
 <p>Once I got my basic damage system setup it was time to design and add functionality to an enemy. I started with the red buff camp, MOBAS have small areas in the jungle called camps which have monsters that help your character gain experience and gold when killed.</p>
+
+![kwangCombat](https://user-images.githubusercontent.com/70648519/115149294-6566a700-a031-11eb-85cd-020f32ebcdee.PNG)
 
 ![AI](https://user-images.githubusercontent.com/70648519/115151251-107b5e80-a03a-11eb-8181-5596efb28cf1.PNG)
 

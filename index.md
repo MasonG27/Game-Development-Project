@@ -29,9 +29,9 @@
 
 <h2>Month 2 - Combat System and Character Stats</h2>
 
-![combat system anim](https://user-images.githubusercontent.com/70648519/115127588-9bf6e000-9fa5-11eb-9737-a41754211c98.png)
-
 <p>About a month into the project I began exploring different ways of starting a combat system. I ended up settling on a tag system for detection and overlap collision for damage.</p>
+
+![kwangCombat](https://user-images.githubusercontent.com/70648519/115149294-6566a700-a031-11eb-85cd-020f32ebcdee.PNG)
 
 ![meleeBoxBP](https://user-images.githubusercontent.com/70648519/115149284-5ed82f80-a031-11eb-890f-bceb10748432.PNG)
 
@@ -45,7 +45,7 @@
 
 <p>Once I got my basic damage system setup it was time to design and add functionality to an enemy. I started with the red buff camp, MOBAS have small areas in the jungle called camps which have monsters that help your character gain experience and gold when killed.</p>
 
-![kwangCombat](https://user-images.githubusercontent.com/70648519/115149294-6566a700-a031-11eb-85cd-020f32ebcdee.PNG)
+![combat system anim](https://user-images.githubusercontent.com/70648519/115127588-9bf6e000-9fa5-11eb-9737-a41754211c98.png)
 
 ![AI](https://user-images.githubusercontent.com/70648519/115151251-107b5e80-a03a-11eb-8181-5596efb28cf1.PNG)
 

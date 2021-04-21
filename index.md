@@ -52,4 +52,6 @@
 
 <p><img src="AnimGraph.PNG" /></p>
 
+<p>After I had the AI working in a decent state I decided to start adding stats such as health, mana, xp and gold systems. All of these functions were sent to the player through notifiers once the action occured to the enemy.</p>
 
+<p><img src="GoldAndXP.PNG" /></p>

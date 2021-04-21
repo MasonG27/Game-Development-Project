@@ -8,7 +8,7 @@
 <p>My project is broken up into 2 major parts, documentation and visual coding(scripting/blueprints) both played their own unique role in the development process of this project.</p>
 <p>When it came to preparation I knew documentation was going to keep my project organized. Documentation is well practiced in the game industry, and I found that timelines, game design documents and developer notes are the three most important documents to keep track of.</p>
 
-![timeline](timeline.PNG)
+<p><img src="https://user-images.githubusercontent.com/70648519/115128514-496cf200-9fac-11eb-8587-9ffe705925fb.PNG" alt="jungleScreeny" /></p>
 
 ![GDD](https://user-images.githubusercontent.com/70648519/115128257-77e9cd80-9faa-11eb-82c7-19e36ae9c876.PNG)
 

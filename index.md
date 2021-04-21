@@ -17,12 +17,12 @@
 
 <h2>Month 1 - Map and Environment Design</h2>
 
-![jungleScreeny](https://user-images.githubusercontent.com/70648519/115128514-496cf200-9fac-11eb-8587-9ffe705925fb.PNG)
+<p><img src="jungleScreeny.PNG" /></p>
 
 <p>Although I spent about 25% of development time on environment design, I believe it was a good idea because it allowed me to show my potential as an environment artist. Additionally, it shows professional design techniques since each lane, jungle path and camp had to be strategically placed in order to make sure each side was evenly matched. This was achieved by countless play testing, measuring and timing.</p>
 <p>Having a lot of experience from playing this type of game gave me a great stepping stone in designing the map. MOBAS traditionally have 2 bases that each have 5 players start in. The objective is to destroy the opponents base core, each base is separated by 3 lanes and a jungle. Giving each character roles to take part in throughout the match. The five roles are Mid, Jungle, Solo, as well as the ADC(all damage carry) and Support, which play together in their designated lane.</p>
 
-![mapTemplate](https://user-images.githubusercontent.com/70648519/115129528-d320bd80-9fb4-11eb-9f67-2c58727c7527.PNG)
+<p><img src="mapTemplate.PNG" /></p>
 
 ![map](https://user-images.githubusercontent.com/70648519/115129359-1ed26780-9fb3-11eb-86bb-146ff804d39c.PNG)
 

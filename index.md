@@ -40,7 +40,7 @@
 
 <p><img src="Notify.PNG" /></p>
 
-<p>The great thing about this combat system is the tagging allows for you to easily do damage to multiple enemies by just adding a tag to them. A great example is the turrets, all I had to do was give them a health variable and tag them as an enemy and boom, they are able to take damage from the player. The reason this is important is it saves so much time instead of reimplamenting the same blueprint and having to adjust different variables.</p> 
+<p>The great thing about this combat system is the tagging allows for you to easily do damage to multiple enemies by just adding a tag to them. A great example is the turrets, all I had to do was give them a health variable and tag them as an enemy and boom, they are able to take damage from the player. The reason this is important is it saves so much time instead of reimplementing the same blueprint and having to adjust different variables.</p> 
 
 <p>Once I got my basic damage system setup it was time to design and add functionality to an enemy. I started with the red buff camp, MOBAS have small areas in the jungle called camps which have monsters that help your character gain experience and gold when killed.</p>
 
@@ -52,7 +52,7 @@
 
 <p><img src="AnimGraph.PNG" /></p>
 
-<p>After I had the AI working in a decent state I decided to start adding stats such as health, mana, xp and gold systems. All of these functions were sent to the player through notifiers once the action occured to the enemy.</p>
+<p>After I had the AI working in a decent state I decided to start adding stats such as health, mana, xp and gold systems. All of these functions were sent to the player through notifiers once the action occurred to the enemy.</p>
 
 <p><img src="GoldAndXP.PNG" /></p>
 
@@ -66,7 +66,7 @@
 
 <p><img src="towerFireing.PNG" /></p>
 
-<p>The last thing I have worked on for this project was getting minions to travel properly in the lane and fight eachother once they overlapped at a certain distance.</p>
+<p>The last thing I have worked on for this project was getting minions to travel properly in the lane and fight one another once they overlapped at a certain distance.</p>
 
 <p><img src="minionsLane.png" /></p>
 

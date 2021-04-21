@@ -62,6 +62,6 @@
 
 <p><img src="towerLane.png" /></p>
 
-<p><img src="towerRotating.PNG" /></p>
+<p><img src="towerRotation.PNG" /></p>
 
 <p><img src="towerFireing.PNG" /></p>

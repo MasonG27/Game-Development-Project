@@ -65,3 +65,9 @@
 <p><img src="towerRotation.PNG" /></p>
 
 <p><img src="towerFireing.PNG" /></p>
+
+<p>The last thing I have worked on for this project was getting minions to travel properly in the lane and fight eachother once they overlapped at a certain distance.</p>
+
+<p><img src="minionsLane.png" /></p>
+
+<p><img src="minionCheckpoint.PNG" /></p>

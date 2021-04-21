@@ -58,7 +58,7 @@
 
 <h2>Month 3 - Turrets and Lane Minions</h2>
 
-<p>This last month I spent working getting turrets working to detect the player in range as well as fire a projectile. In addition I started a blueprint system that has minions go through a series of checkpoints to reach the middle lane and fight each other once detecting the other.</p>
+<p>This last month I spent time getting turrets working to detect the player in range as well as fire a projectile. In addition I started but have not finished a blueprint system that has minions go through a series of checkpoints to reach the middle lane and fight each other once detecting the other.</p>
 
 <p><img src="towerLane.png" /></p>
 

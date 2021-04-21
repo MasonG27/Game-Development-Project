@@ -10,7 +10,7 @@
 
 <p><img src="https://user-images.githubusercontent.com/70648519/115128514-496cf200-9fac-11eb-8587-9ffe705925fb.PNG" alt="jungleScreeny" /></p>
 
-![GDD](https://user-images.githubusercontent.com/70648519/115128257-77e9cd80-9faa-11eb-82c7-19e36ae9c876.PNG)
+<p><img src="https://user-images.githubusercontent.com/70648519/115128257-77e9cd80-9faa-11eb-82c7-19e36ae9c876.PNG" alt="GDD" /></p>
 
 ![notes](https://user-images.githubusercontent.com/70648519/115128260-7c15eb00-9faa-11eb-991e-2f90eb3870ad.PNG)
 

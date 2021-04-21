@@ -24,21 +24,21 @@
 
 <p><img src="mapTemplate.PNG" /></p>
 
-![map](https://user-images.githubusercontent.com/70648519/115129359-1ed26780-9fb3-11eb-86bb-146ff804d39c.PNG)
+<p><img src="map.PNG" /></p>
 
 <h2>Month 2 - Combat System and Character Stats</h2>
 
 <p>About a month into the project I began exploring different ways of starting a combat system. I ended up settling on a tag system for detection and overlap collision for damage.</p>
 
-![kwangCombat](https://user-images.githubusercontent.com/70648519/115149294-6566a700-a031-11eb-85cd-020f32ebcdee.PNG)
+<p><img src="kwangCombat.PNG" /></p>
 
-![meleeBoxBP](https://user-images.githubusercontent.com/70648519/115149284-5ed82f80-a031-11eb-890f-bceb10748432.PNG)
+<p><img src="meleeBoxBP.PNG" /></p>
 
-![startCollision](https://user-images.githubusercontent.com/70648519/115149464-4b799400-a032-11eb-82da-b477087f1569.PNG)
+<p><img src="startCollision.PNG" /></p>
 
-![endCollision](https://user-images.githubusercontent.com/70648519/115149468-4fa5b180-a032-11eb-9403-9071e8c96133.PNG)
+<p><img src="endCollision.PNG" /></p>
 
-![Notify](https://user-images.githubusercontent.com/70648519/115149474-53d1cf00-a032-11eb-8500-c7ff93015539.PNG)
+<p><img src="Notify.PNG" /></p>
 
 <p>The great thing about this combat system is the tagging allows for you to easily do damage to multiple enemies by just adding a tag to them. A great example is the turrets, all I had to do was give them a health variable and tag them as an enemy and boom, they are able to take damage from the player. The reason this is important is it saves so much time instead of reimplamenting the same blueprint and having to adjust different variables.</p> 
 

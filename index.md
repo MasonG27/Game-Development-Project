@@ -1,4 +1,4 @@
-<p><img src="GameBackground.PNG" /></p>
+<p><img src="GameBackground.png" /></p>
 
 <h3>Project Showcase</h3>
 <h1>Invicta!<h1>

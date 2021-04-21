@@ -71,3 +71,7 @@
 <p><img src="minionsLane.png" /></p>
 
 <p><img src="minionCheckpoint.PNG" /></p>
+
+<h2>Closing Thoughts</h2>
+<p>Documentation, Development, Production</p>
+<p>This project was an amazing experience to learn and prepare my portfolio for the game industry. I believe I achieved a great deal of learning when it came to documentation and development and now I just need to keep on working on it after graduation in order to achieve some production experience!</p> 

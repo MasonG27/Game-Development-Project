@@ -55,3 +55,13 @@
 <p>After I had the AI working in a decent state I decided to start adding stats such as health, mana, xp and gold systems. All of these functions were sent to the player through notifiers once the action occured to the enemy.</p>
 
 <p><img src="GoldAndXP.PNG" /></p>
+
+<h2>Month 3 - Turrets and Lane Minions</h2>
+
+<p>This last month I spent working getting turrets working to detect the player in range as well as fire a projectile. In addition I started a blueprint system that has minions go through a series of checkpoints to reach the middle lane and fight each other once detecting the other.</p>
+
+<p><img src="towerLane.png" /></p>
+
+<p><img src="towerRotating.PNG" /></p>
+
+<p><img src="towerFireing.PNG" /></p>

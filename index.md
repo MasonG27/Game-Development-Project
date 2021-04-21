@@ -44,7 +44,7 @@
 
 <p>Once I got my basic damage system setup it was time to design and add functionality to an enemy. I started with the red buff camp, MOBAS have small areas in the jungle called camps which have monsters that help your character gain experience and gold when killed.</p>
 
-<p><img src="combatSystem.PNG" /></p>
+<p><img src="combatSystem.png" /></p>
 
 <p><img src="AI.PNG" /></p>
 

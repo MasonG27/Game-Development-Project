@@ -1,3 +1,3 @@
 # Game-Development-Project
-For the past 3 months I have developed a third person moba that encapsolates some of the progress I have made over the past 2 years of game design and development. This repo is the home of updates and progression on the project.
+For the past 3 months I have developed a third person moba that encapsolates some of the progress I have made over the past 2 years of game design and development. This repo is the home of updates and progression on the project. Check out the Issues section to see what I have worked on thus far, as well as the Wiki tab for a dev blog type view! Please feel free to leave feedback in the issues tab, thanks!
 
